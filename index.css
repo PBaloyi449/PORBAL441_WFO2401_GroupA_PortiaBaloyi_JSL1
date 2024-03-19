@@ -4,6 +4,9 @@ body {
     margin-top: 50px;
     background-color: #f0f8ff;
     color: #333;
+    background-image: url(assets/istockphoto-1417882544-1024x1024.jpg);
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Do not repeat the background image */
 }
 
 h2 {
